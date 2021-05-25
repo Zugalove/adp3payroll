@@ -1,7 +1,7 @@
 /* Employee.java
    Entity for the Employee
-   Author:Mandisa Elizabeth Msongelwa (217149073)
-   Date: 24 May 2021
+   Author:Mr Zukile Ndyalivana
+   Date: 25 May 2021
  */
 package za.ac.cput.Entity;
 
