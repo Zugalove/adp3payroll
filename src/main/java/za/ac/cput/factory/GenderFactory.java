@@ -1,7 +1,7 @@
-package za.ac.cput.Factory;
+package za.ac.cput.factory;
 
-import za.ac.cput.Entity.Gender;
-import za.ac.cput.Util.GenericHelper;
+import za.ac.cput.entity.demorgraphy.Gender;
+import za.ac.cput.util.GenericHelper;
 
 public class GenderFactory {
 

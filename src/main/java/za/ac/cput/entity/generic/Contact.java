@@ -1,4 +1,4 @@
-package za.ac.cput.Entity;
+package za.ac.cput.entity.generic;
 
 public class Contact {
     private String cellPhone,homePhone, email;
@@ -43,7 +43,6 @@ public class Contact {
 
             return this;
         }
-
 
         public Contact build(){
 

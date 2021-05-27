@@ -1,7 +1,7 @@
-package za.ac.cput.Factory;
+package za.ac.cput.factory;
 
 import org.junit.jupiter.api.Test;
-import za.ac.cput.Entity.Gender;
+import za.ac.cput.entity.demorgraphy.Gender;
 
 class GenderFactoryTest {
     @Test

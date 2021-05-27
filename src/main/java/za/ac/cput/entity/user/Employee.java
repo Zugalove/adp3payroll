@@ -3,7 +3,7 @@
    Author:Mr Zukile Ndyalivana
    Date: 25 May 2021
  */
-package za.ac.cput.Entity;
+package za.ac.cput.entity.user;
 
 public class Employee {
     private String employeeNumber, firstName, lastName;

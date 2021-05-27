@@ -1,13 +1,22 @@
-package za.ac.cput.Entity;
+package za.ac.cput.entity.demorgraphy;
 
 public class Gender {
     private  String id, desc;
+
+    public String getId() {
+        return id;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
 
     public Gender(Builder builder) {
         this.id=builder.id;
         this.desc=builder.desc;
 
     }
+
 
     @Override
     public String toString() {

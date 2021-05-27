@@ -1,9 +1,9 @@
-package za.ac.cput.Factory;
+package za.ac.cput.factory;
 
-import za.ac.cput.Entity.Race;
-import za.ac.cput.Util.GenericHelper;
+import za.ac.cput.entity.demorgraphy.Race;
+import za.ac.cput.util.GenericHelper;
 
-public class Racefactory {
+public class RaceFactory {
     public  static   Race createRace(String desc){
         String raceID=GenericHelper.generateId();
         Race race=new Race.Builder()

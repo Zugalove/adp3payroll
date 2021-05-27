@@ -1,7 +1,15 @@
-package za.ac.cput.Entity;
+package za.ac.cput.entity.demorgraphy;
 
 public class Race {
     private String id, desc;
+
+    public String getId() {
+        return id;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
 
     public Race(Builder builder) {
         this.id=builder.id;

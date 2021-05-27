@@ -1,7 +1,7 @@
-package za.ac.cput.Factory;
+package za.ac.cput.factory;
 
-import za.ac.cput.Entity.Employee;
-import za.ac.cput.Util.GenericHelper;
+import za.ac.cput.entity.user.Employee;
+import za.ac.cput.util.GenericHelper;
 
 public class EmployeeFactory {
     public static Employee  createEmployee(String firstName, String lastName){
