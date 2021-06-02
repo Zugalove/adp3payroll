@@ -1,4 +1,4 @@
-package za.ac.cput.entity.demorgraphy;
+package za.ac.cput.entity.demography;
 
 public class Gender {
     private  String id, desc;

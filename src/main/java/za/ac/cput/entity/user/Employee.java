@@ -8,6 +8,18 @@ package za.ac.cput.entity.user;
 public class Employee {
     private String employeeNumber, firstName, lastName;
 
+    public String getEmployeeNumber() {
+        return employeeNumber;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
     private Employee(Builder builder) {
         this.employeeNumber = builder.employeeNumber;
         this.firstName = builder.firstName;;

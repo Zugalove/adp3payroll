@@ -1,4 +1,4 @@
-package za.ac.cput.factory;
+package za.ac.cput.factory.user;
 
 import za.ac.cput.entity.user.Employee;
 import za.ac.cput.util.GenericHelper;

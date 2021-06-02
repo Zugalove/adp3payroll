@@ -1,4 +1,4 @@
-package za.ac.cput.entity.demorgraphy;
+package za.ac.cput.entity.demography;
 
 public class Race {
     private String id, desc;

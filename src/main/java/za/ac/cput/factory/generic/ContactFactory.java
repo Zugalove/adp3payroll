@@ -1,4 +1,4 @@
-package za.ac.cput.factory;
+package za.ac.cput.factory.generic;
 
 import za.ac.cput.entity.generic.Contact;
 import za.ac.cput.util.GenericHelper;

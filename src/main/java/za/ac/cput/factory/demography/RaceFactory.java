@@ -1,6 +1,6 @@
-package za.ac.cput.factory;
+package za.ac.cput.factory.demography;
 
-import za.ac.cput.entity.demorgraphy.Race;
+import za.ac.cput.entity.demography.Race;
 import za.ac.cput.util.GenericHelper;
 
 public class RaceFactory {
