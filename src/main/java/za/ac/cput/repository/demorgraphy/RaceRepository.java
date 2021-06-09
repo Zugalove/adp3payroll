@@ -17,7 +17,7 @@ public class RaceRepository implements Repository<Race, String> {
 
     @Override
     public Race create(Race race) {
-        this.raceDB.add(race);
+
         return race;
     }
 
